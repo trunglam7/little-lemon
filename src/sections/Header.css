@@ -1,0 +1,6 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(177, 255, 177);
+    padding: 20px;
+}

@@ -1,12 +1,12 @@
 import React from 'react'
+import './Nav.css'
 
 const Nav = () => {
   return (
     <nav>
         <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Reserve</li>
+            <li><a href='#'>Home</a></li>
+            <li><a href='#'>Reserve</a></li>
         </ul>
     </nav>
   )
